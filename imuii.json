@@ -1,0 +1,11 @@
+{
+  "name": "testingnew",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "dapolll",
+  "email": "l@gmail.com",
+  "secretKey": "imuii_1ac0de67ea95ab9ea215fcd565a04b95b2a0cd578300a243e2d91a565599d35b",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/dapolll-fcfe7912.git"
+}
